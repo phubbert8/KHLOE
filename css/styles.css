@@ -13,7 +13,7 @@ body {
 }
 
 #khloe-img {
-  background: url('../images/khloe-large-image.png') no-repeat;
+  background: url('../image/khloe-large-image.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
@@ -118,11 +118,11 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #photo-tile {
-  background: url('../images/momie.png') no-repeat;
+  background: url('../image/momie.png') no-repeat;
   background-position: center;
 }
 #specials-k {
-  background: url('../images/specials-k.png') no-repeat;
+  background: url('../image/specials-k.png') no-repeat;
   background-position: center;
 }
 #photo-tile span, #specials-k span {
@@ -219,7 +219,7 @@ h3.photo-item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/mom-large.png') no-repeat;
+    background: url('../image/mom-large.png') no-repeat;
     height: 675px;
   }
 }
@@ -228,7 +228,7 @@ h3.photo-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #khloe-img {
-    background: url('../images/khloe-md-image.png') no-repeat;
+    background: url('../image/khloe-md-image.png') no-repeat;
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
@@ -237,7 +237,7 @@ h3.photo-item-title {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/mom-large.png') no-repeat;
+    background: url('../image/mom-large.png') no-repeat;
     height: 558px;
   }
   /* End Home Page */
@@ -247,7 +247,7 @@ h3.photo-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
 .container .jumbotron {
-    background: url('../images/mom-large.png') no-repeat;
+    background: url('../image/khloe-lg-2.png') no-repeat;
     height: 432px;
   }
   
