@@ -125,6 +125,10 @@ body {
   background: url('../image/specials-k.png') no-repeat;
   background-position: center;
 }
+#specials-k2 {
+  background: url('../image/sisters.png') no-repeat;
+  background-position: center;
+}
 #photo-tile span, #specials-k span {
   position: absolute;
   bottom: 0;
