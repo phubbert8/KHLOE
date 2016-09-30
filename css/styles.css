@@ -228,7 +228,7 @@ h3.photo-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #khloe-img {
-    background: url('../image/khloe-lg-2-image.png') no-repeat;
+    background: url('../image/khloe-large-image.png') no-repeat;
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
