@@ -19,3 +19,22 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
   });
 });
 
+var choiceArray = ["paper", "rock", "scissors"];
+var computerChoice = Math.floor(3*Math.random());
+console.log(computerChoice);
+switch(parseInt(computerChoice)) {
+case 0:
+    computerChoice="rock";
+    break;
+case 1:
+    computerChoice="paper";
+    break;
+case 2:
+    computerChoice="scissors";
+    break;
+default:
+    console.log('how it just happened?');
+}
+
+console.log(computerChoice);
+
